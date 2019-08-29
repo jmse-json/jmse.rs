@@ -1,0 +1,14 @@
+[package]
+name        = "jmse"
+description = "JSON Message Signing and Encryption (JMSE)"
+version     = "0.0.0"
+license     = "Apache-2.0"
+authors     = ["Tony Arcieri <tony@iqlusion.io>"]
+homepage    = "https://jmse.dev"
+repository  = "https://github.com/jmse-json/jmse"
+readme      = "README.md"
+categories  = ["authentication", "cryptography", "encoding"]
+keywords    = ["json", "encryption", "signing", "serialization"]
+edition     = "2018"
+
+[dependencies]
