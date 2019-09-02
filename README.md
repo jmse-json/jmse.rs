@@ -41,8 +41,8 @@ without any additional terms or conditions.
 [crate-link]: https://crates.io/crates/jmse
 [docs-image]: https://docs.rs/jmse/badge.svg
 [docs-link]: https://docs.rs/jmse/
-[build-image]: https://secure.travis-ci.org/jmse-json/jmse.svg?branch=master
-[build-link]: http://travis-ci.org/jmse-json/jmse
+[build-image]: https://travis-ci.com/jmse-json/jmse.rs.svg?branch=develop
+[build-link]: http://travis-ci.com/jmse-json/jmse.rs
 [license-image]: https://img.shields.io/badge/license-Apache2.0-blue.svg
 [license-link]: https://github.com/jmse-json/jmse/blob/master/LICENSE
 
